@@ -23,6 +23,7 @@ Resource of Relation Extraction, inspired by [awesome-relation-extraction](https
 
 
 ## Research Trends and Surveys
+* [Paper with Code](https://paperswithcode.com/task/relation-extraction)
 * [NLP progress: Relationship Extraction](https://nlpprogress.com/english/relationship_extraction.html)
 * [A Survey of Deep Learning Methods for Relation Extraction](https://arxiv.org/abs/1705.03645) (Kumar, 2017)
 * [A Survey on Relation Extraction](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf) (Bach and Badaskar, 2017)
