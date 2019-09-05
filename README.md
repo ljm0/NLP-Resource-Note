@@ -1,6 +1,6 @@
 # Relation Extraction 
 
-Resource of Relation Extraction, inspired by [awesome-relation-extraction](https://github.com/roomylee/awesome-relation-extraction), [awesome-nlp](https://github.com/keon/awesome-nlp) and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision).
+Resource of Relation Extraction, inspired by [datasets for relation extraction](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets), [awesome-relation-extraction](https://github.com/roomylee/awesome-relation-extraction), [awesome-nlp](https://github.com/keon/awesome-nlp) and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision).
 
 ## Contents
 - [Relation Extraction](#relation-extraction)
