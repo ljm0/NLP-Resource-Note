@@ -2,8 +2,6 @@
 
 Resource of Relation Extraction, inspired by [awesome-relation-extraction](https://github.com/roomylee/awesome-relation-extraction), [awesome-nlp](https://github.com/keon/awesome-nlp) and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision).
 
-**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/awesome-relation-extraction/pulls)*.
-
 ## Contents
 - [Relation Extraction](#relation-extraction)
 	- [Contents](#contents)
