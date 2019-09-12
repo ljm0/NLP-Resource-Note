@@ -45,6 +45,35 @@ For state of the art results check out [nlpprogress.com on relation extraction](
 
 [Back to Top](#contents)
 
+## Systems
+* [DeepDive](http://deepdive.stanford.edu/)
+* [Stanford Relation Extractor](https://nlp.stanford.edu/software/relationExtractor.html)
+* [spaCy - NLP tools](https://spacy.io/)
+* [DBpedia Spotlight - Entity Linking](https://github.com/dbpedia-spotlight/dbpedia-spotlight-model)
+
+[Back to Top](#contents)
+
+
+## Videos and Lectures
+* [Stanford University: CS124](https://web.stanford.edu/class/cs124/), Dan Jurafsky
+	* (Video) [Week 5: Relation Extraction and Question](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK&ab_channel=FromLanguagestoInformation)
+* [Washington University: CSE517](https://courses.cs.washington.edu/courses/cse517/), Luke Zettlemoyer
+	* (Slide) [Relation Extraction 1](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf)
+	* (Slide) [Relation Extraction 2](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf)
+* [New York University: CSCI-GA.2590](https://cs.nyu.edu/courses/spring17/CSCI-GA.2590-001/), Ralph Grishman
+	* (Slide) [Relation Extraction: Rule-based Approaches](https://cs.nyu.edu/courses/spring17/CSCI-GA.2590-001/DependencyPaths.pdf)
+* [Michigan University: Coursera](https://ai.umich.edu/portfolio/natural-language-processing/), Dragomir R. Radev
+	* (Video) [Lecture 48: Relation Extraction](https://www.youtube.com/watch?v=TbrlRei_0h8&ab_channel=ArtificialIntelligence-AllinOne)
+* [Virginia University: CS6501-NLP](http://web.cs.ucla.edu/~kwchang/teaching/NLP16/), Kai-Wei Chang
+	* (Slide) [Lecture 24: Relation Extraction](http://web.cs.ucla.edu/~kwchang/teaching/NLP16/slides/24-relation.pdf)
+
+[Back to Top](#contents)
+
+## Blogs
+# [徐阿衡](http://www.shuang0420.com/2018/09/15/%E7%9F%A5%E8%AF%86%E6%8A%BD%E5%8F%96-%E5%AE%9E%E4%BD%93%E5%8F%8A%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/)
+# [First入门](http://pelhans.com/2018/03/15/xiaoxiangkg-note1/)
+
+
 ## Papers
 
 ### Supervised Approaches
@@ -181,30 +210,6 @@ For state of the art results check out [nlpprogress.com on relation extraction](
 * Joint Extraction of Entities and Relations Using Reinforcement Learning and Deep Learning [[paper]](https://www.hindawi.com/journals/cin/2017/7643065/)
 	* Yuntian Feng, Hongjun Zhang, Wenning Hao, and Gang Chen
 	* Journal of Computational Intelligence and Neuroscience 2017
-
-[Back to Top](#contents)
-
-
-## Videos and Lectures
-* [Stanford University: CS124](https://web.stanford.edu/class/cs124/), Dan Jurafsky
-	* (Video) [Week 5: Relation Extraction and Question](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK&ab_channel=FromLanguagestoInformation)
-* [Washington University: CSE517](https://courses.cs.washington.edu/courses/cse517/), Luke Zettlemoyer
-	* (Slide) [Relation Extraction 1](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf)
-	* (Slide) [Relation Extraction 2](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf)
-* [New York University: CSCI-GA.2590](https://cs.nyu.edu/courses/spring17/CSCI-GA.2590-001/), Ralph Grishman
-	* (Slide) [Relation Extraction: Rule-based Approaches](https://cs.nyu.edu/courses/spring17/CSCI-GA.2590-001/DependencyPaths.pdf)
-* [Michigan University: Coursera](https://ai.umich.edu/portfolio/natural-language-processing/), Dragomir R. Radev
-	* (Video) [Lecture 48: Relation Extraction](https://www.youtube.com/watch?v=TbrlRei_0h8&ab_channel=ArtificialIntelligence-AllinOne)
-* [Virginia University: CS6501-NLP](http://web.cs.ucla.edu/~kwchang/teaching/NLP16/), Kai-Wei Chang
-	* (Slide) [Lecture 24: Relation Extraction](http://web.cs.ucla.edu/~kwchang/teaching/NLP16/slides/24-relation.pdf)
-
-
-[Back to Top](#contents)
-
-
-## Systems
-* [DeepDive](http://deepdive.stanford.edu/)
-* [Stanford Relation Extractor](https://nlp.stanford.edu/software/relationExtractor.html)
 
 [Back to Top](#contents)
 
