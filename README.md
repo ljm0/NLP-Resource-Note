@@ -7,6 +7,8 @@ Resource of Relation Extraction, inspired by [datasets for relation extraction](
 	- [Contents](#contents)
 	- [Research Trends and Surveys](#research-trends-and-surveys)
 	- [Datasets](#datasets)
+	- [Systems](#systems)
+	- [Videos and Lectures](#videos-and-lectures)
 	- [Papers](#papers)
 		- [Supervised Approaches](#supervised-approaches)
 			- [CNN-based Models](#cnn-based-models)
@@ -16,8 +18,7 @@ Resource of Relation Extraction, inspired by [datasets for relation extraction](
 		- [Language Models](#language-models)
 		- [Few-Shot Learning Approaches](#few-shot-learning-approaches)
 		- [Miscellaneous](#miscellaneous)
-	- [Videos and Lectures](#videos-and-lectures)
-	- [Systems](#systems)
+
 
 
 ## Research Trends and Surveys
