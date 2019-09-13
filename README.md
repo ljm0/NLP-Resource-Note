@@ -90,6 +90,7 @@ For state of the art results check out [nlpprogress.com on relation extraction](
 ## Blogs
    * [徐阿衡](http://www.shuang0420.com/2018/09/15/%E7%9F%A5%E8%AF%86%E6%8A%BD%E5%8F%96-%E5%AE%9E%E4%BD%93%E5%8F%8A%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/)
    * [First入门](http://pelhans.com/2018/03/15/xiaoxiangkg-note1/)
+   * [RE进展](https://blog.csdn.net/CSDN_wujian/article/details/100136621#_26)
 
 
 ## Papers
