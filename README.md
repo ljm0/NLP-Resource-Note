@@ -45,7 +45,7 @@ Resource of Relation Extraction, inspired by [datasets for relation extraction](
 * SemEval-2010 Task 8 [[paper]](http://www.aclweb.org/anthology/S10-1006) [[download]](https://docs.google.com/leaf?id=0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk&sort=name&layout=list&num=50)
 	* Multi-Way Classification of Semantic Relations Between Pairs of Nominals
 
-* FewRel: Few-Shot Relation Classification Dataset [[paper]](https://arxiv.org/abs/1810.10147) [[Website]](http://zhuhao.me/fewrel)
+* FewRel: Few-Shot Relation Classification Dataset [[paper]](https://arxiv.org/abs/1810.10147) [[Website]](http://www.zhuhao.me/fewrel/)
 	70, 000 examples (100 relation types * 700 examples)
 	Few-shot + Crowdsourcing  - Wikipedia
 	Few-Shot: (meta learning)
