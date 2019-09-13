@@ -22,6 +22,7 @@ Resource of Relation Extraction, inspired by [datasets for relation extraction](
 
 
 ## Research Trends and Surveys
+* [Resource Knowledge Graph](https://github.com/BrambleXu/knowledge-graph-learning)
 * [Paper with Code](https://paperswithcode.com/task/relation-extraction)
 * [NLP progress: Relationship Extraction](https://nlpprogress.com/english/relationship_extraction.html)
 * [A Survey of Deep Learning Methods for Relation Extraction](https://arxiv.org/abs/1705.03645) (Kumar, 2017)
