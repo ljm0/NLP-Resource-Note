@@ -68,6 +68,7 @@ For state of the art results check out [nlpprogress.com on relation extraction](
 * [Stanford Relation Extractor](https://nlp.stanford.edu/software/relationExtractor.html)
 * [spaCy - NLP tools](https://spacy.io/)
 * [DBpedia Spotlight - Entity Linking](https://github.com/dbpedia-spotlight/dbpedia-spotlight-model)
+* [TAG*ME Entity Linking and annotated](https://tagme.d4science.org/tagme/)
 
 [Back to Top](#contents)
 
