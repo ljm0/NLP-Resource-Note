@@ -70,6 +70,7 @@ For state of the art results check out [nlpprogress.com on relation extraction](
 * [DBpedia Spotlight - Entity Linking](https://github.com/dbpedia-spotlight/dbpedia-spotlight-model)
 * [TAG*ME Entity Linking and annotated](https://tagme.d4science.org/tagme/)
 * [A3 LAB](http://acube.di.unipi.it/topics/natural-language-understanding/)
+* [AIDA](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/ambiverse-nlu/aida/)
 
 [Back to Top](#contents)
 
