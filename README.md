@@ -18,6 +18,7 @@ Resource of Relation Extraction, inspired by [datasets for relation extraction](
 		- [Language Models](#language-models)
 		- [Few-Shot Learning Approaches](#few-shot-learning-approaches)
 		- [Miscellaneous](#miscellaneous)
+- [Text Generation](https://github.com/ChenChengKuan/awesome-text-generation)
 
 
 
