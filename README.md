@@ -19,6 +19,7 @@ Resource of Relation Extraction, inspired by [datasets for relation extraction](
 		- [Few-Shot Learning Approaches](#few-shot-learning-approaches)
 		- [Miscellaneous](#miscellaneous)
 - [Text Generation](https://github.com/ChenChengKuan/awesome-text-generation)
+- [OpenNRE](https://github.com/thunlp/NREPapers)
 
 
 
